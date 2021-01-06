@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dapp3/static/css/main.ecbb6935.chunk.css",
-    "main.js": "/dapp3/static/js/main.54492ae1.chunk.js",
-    "main.js.map": "/dapp3/static/js/main.54492ae1.chunk.js.map",
+    "main.js": "/dapp3/static/js/main.d24dd0ae.chunk.js",
+    "main.js.map": "/dapp3/static/js/main.d24dd0ae.chunk.js.map",
     "runtime-main.js": "/dapp3/static/js/runtime-main.ecd4245b.js",
     "runtime-main.js.map": "/dapp3/static/js/runtime-main.ecd4245b.js.map",
     "static/js/2.582146d6.chunk.js": "/dapp3/static/js/2.582146d6.chunk.js",
     "static/js/2.582146d6.chunk.js.map": "/dapp3/static/js/2.582146d6.chunk.js.map",
     "index.html": "/dapp3/index.html",
-    "precache-manifest.a926c6d19d9b97359b2875e39c3d52db.js": "/dapp3/precache-manifest.a926c6d19d9b97359b2875e39c3d52db.js",
+    "precache-manifest.194b5ee6b8e52395fc0c5de3cc3d7b2f.js": "/dapp3/precache-manifest.194b5ee6b8e52395fc0c5de3cc3d7b2f.js",
     "service-worker.js": "/dapp3/service-worker.js",
     "static/css/main.ecbb6935.chunk.css.map": "/dapp3/static/css/main.ecbb6935.chunk.css.map",
     "static/media/connected1.png": "/dapp3/static/media/connected1.d75a301a.png",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.ecd4245b.js",
     "static/js/2.582146d6.chunk.js",
     "static/css/main.ecbb6935.chunk.css",
-    "static/js/main.54492ae1.chunk.js"
+    "static/js/main.d24dd0ae.chunk.js"
   ]
 }
