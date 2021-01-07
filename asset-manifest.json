@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dapp3/static/css/main.f29cb12b.chunk.css",
-    "main.js": "/dapp3/static/js/main.2a3b4bf8.chunk.js",
-    "main.js.map": "/dapp3/static/js/main.2a3b4bf8.chunk.js.map",
+    "main.css": "/dapp3/static/css/main.53c99789.chunk.css",
+    "main.js": "/dapp3/static/js/main.e2557d99.chunk.js",
+    "main.js.map": "/dapp3/static/js/main.e2557d99.chunk.js.map",
     "runtime-main.js": "/dapp3/static/js/runtime-main.ecd4245b.js",
     "runtime-main.js.map": "/dapp3/static/js/runtime-main.ecd4245b.js.map",
     "static/js/2.1c913eb2.chunk.js": "/dapp3/static/js/2.1c913eb2.chunk.js",
     "static/js/2.1c913eb2.chunk.js.map": "/dapp3/static/js/2.1c913eb2.chunk.js.map",
     "index.html": "/dapp3/index.html",
-    "precache-manifest.db1ac52b40a1c7d4f2563fba6d8e08ad.js": "/dapp3/precache-manifest.db1ac52b40a1c7d4f2563fba6d8e08ad.js",
+    "precache-manifest.f421272474ea6cd51308e45040ead862.js": "/dapp3/precache-manifest.f421272474ea6cd51308e45040ead862.js",
     "service-worker.js": "/dapp3/service-worker.js",
-    "static/css/main.f29cb12b.chunk.css.map": "/dapp3/static/css/main.f29cb12b.chunk.css.map",
+    "static/css/main.53c99789.chunk.css.map": "/dapp3/static/css/main.53c99789.chunk.css.map",
     "static/media/connected1.png": "/dapp3/static/media/connected1.d75a301a.png",
     "static/media/dai1.png": "/dapp3/static/media/dai1.66a0ceb4.png",
     "static/media/daic1.png": "/dapp3/static/media/daic1.6faae170.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.ecd4245b.js",
     "static/js/2.1c913eb2.chunk.js",
-    "static/css/main.f29cb12b.chunk.css",
-    "static/js/main.2a3b4bf8.chunk.js"
+    "static/css/main.53c99789.chunk.css",
+    "static/js/main.e2557d99.chunk.js"
   ]
 }
